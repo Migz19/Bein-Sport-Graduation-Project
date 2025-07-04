@@ -1,0 +1,24 @@
+.dashboardPage {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      url("/images/theone.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 2rem;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .dashboardHeading {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .dashboardMessage {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  

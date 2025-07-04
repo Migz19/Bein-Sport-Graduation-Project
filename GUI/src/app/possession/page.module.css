@@ -1,0 +1,287 @@
+.possessionPage {
+    min-height: 100vh;
+    width: 100%;
+    background:
+      linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      url("/images/theone.jpg") no-repeat center center;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .possessionContainer {
+    position: relative;
+    z-index: 1;
+    max-width: 600px;
+    width: 90%;
+    padding: 2.5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+  }
+  
+  .possessionHeading {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+  }
+  
+  .matchInfo {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .leftCol, .rightCol {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .formGroup {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formGroup label {
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .matchInput, .matchTextarea {
+    border-radius: 8px;
+    border: 1px solid #444;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #000;
+    outline: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    height: 48px; /* Set a fixed height for inputs and textarea */
+  }
+  
+  .matchInput:focus, .matchTextarea:focus {
+    border-color: #ffc107;
+    box-shadow: 0 0 8px rgba(255, 193, 7, 0.6);
+    background-color: rgba(255, 255, 255, 1);
+  }
+  
+  .matchInput::placeholder, .matchTextarea::placeholder {
+    color: #666;
+    opacity: 1;
+  }
+  
+  .matchTextarea {
+    resize: vertical; /* Allow vertical resizing */
+    min-height: 48px; /* Set the same height as other inputs */
+  }
+  
+  .uploadSection {
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .uploadBtn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #ffc107;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .uploadBtn:hover {
+    background-color: #e0a800;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .calculateBtn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #e0a800;
+    border: none;
+    border-radius: 25px;
+    color: #000;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin:  1rem;
+  }
+  
+  .calculateBtn:hover {
+    background-color: #e0a800;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .teamList {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .teamItem {
+    font-size: 1.2rem;
+    color: #fff;
+    font-weight: 500;
+  }
+  
+  .teamItem strong {
+    color: #ffc107;
+  }
+  
+  .hiddenFileInput {
+    display: none;
+  }
+
+  .saveBtn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #007bff;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin-top: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .saveBtn:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .resultsSection {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .resultsHeading {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .possessionResults {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1.5rem;
+  }
+  
+  .teamResult {
+    text-align: center;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 45%;
+  }
+  
+  .teamName {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .teamPossession {
+    font-size: 1.5rem;
+    color: #0070f3;
+  }
+  
+  .downloadBtn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    transition: background-color 0.2s;
+  }
+  
+  .downloadBtn:hover {
+    background-color: #218838;
+  }
+  
+  .videoPreview {
+    margin-top: 1rem;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .fileInfo {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+
+  .loadingMessage {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+}
+
+.loadingMessage p {
+  margin-top: 10px;
+}
+
+.videoPreview {
+  position: relative;
+  min-height: 300px;
+  background: #f5f5f5;
+  border-radius: 8px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.videoLoading {
+  text-align: center;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.videoError {
+  text-align: center;
+  padding: 10px;
+  background-color: #ffe6e6;
+  color: #d63031;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.videoPlayer {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin-bottom: 10px;
+}
