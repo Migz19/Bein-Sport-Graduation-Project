@@ -18,6 +18,6 @@
 - Dr. Manal Mohsen Tantawi
 - T.A. Aya Nasser
   
-
+![alt team](/media/team.jpg)
 *Created as part of a graduation project in Computer Science at Ain Shams University.*
 
