@@ -1,0 +1,2 @@
+Models/resourcesjon/SV_FT_TSWC_kp filter=lfs diff=lfs merge=lfs -text
+Models/resourcesjon/SV_FT_TSWC_lines filter=lfs diff=lfs merge=lfs -text

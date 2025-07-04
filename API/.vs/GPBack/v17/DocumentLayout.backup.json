@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\faculty\\GP\\Back\\GPBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\models\\addmatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:models\\addmatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\repositories\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:repositories\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:services\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|d:\\faculty\\gp\\back\\gpback\\gpback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{817D1BED-82C6-422A-980B-11FA28292BDD}|GPBack.csproj|solutionrelative:gpback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T23:41:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddMatchDto.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Models\\AddMatchDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddMatchDto.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Models\\AddMatchDto.cs",
+              "RelativeToolTip": "Models\\AddMatchDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:42:13.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:37:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Repositories\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMatchRepository.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Repositories\\IMatchRepository.cs",
+              "RelativeToolTip": "Repositories\\IMatchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:50:43.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MatchRepository.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "Repositories\\MatchRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:08:46.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMatchService.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Services\\IMatchService.cs",
+              "RelativeDocumentMoniker": "Services\\IMatchService.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Services\\IMatchService.cs",
+              "RelativeToolTip": "Services\\IMatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:30:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchService.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Services\\MatchService.cs",
+              "RelativeDocumentMoniker": "Services\\MatchService.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Services\\MatchService.cs",
+              "RelativeToolTip": "Services\\MatchService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:59:43.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MatchController.cs",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "Controllers\\MatchController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwCoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:59:53.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T00:18:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GPBack.http",
+              "DocumentMoniker": "D:\\faculty\\GP\\Back\\GPBack\\GPBack.http",
+              "RelativeDocumentMoniker": "GPBack.http",
+              "ToolTip": "D:\\faculty\\GP\\Back\\GPBack\\GPBack.http",
+              "RelativeToolTip": "GPBack.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-29T00:18:18.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

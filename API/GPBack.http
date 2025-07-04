@@ -1,0 +1,6 @@
+@GPBack_HostAddress = http://localhost:5072
+
+GET {{GPBack_HostAddress}}/display-matches/
+Accept: application/json
+
+###

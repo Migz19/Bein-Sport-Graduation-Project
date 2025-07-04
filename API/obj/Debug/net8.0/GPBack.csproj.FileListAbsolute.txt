@@ -1,0 +1,302 @@
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\appsettings.Development.json
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\appsettings.json
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.staticwebassets.endpoints.json
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.exe
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.deps.json
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.runtimeconfig.json
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\GPBack.pdb
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Azure.Core.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Azure.Identity.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Humanizer.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.ClientModel.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.CodeDom.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Memory.Data.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\faculty\GP\Back\GPBack\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.csproj.AssemblyReference.cache
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.AssemblyInfoInputs.cache
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.AssemblyInfo.cs
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.csproj.CoreCompileInputs.cache
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.MvcApplicationPartsAssemblyInfo.cs
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.MvcApplicationPartsAssemblyInfo.cache
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\scopedcss\bundle\GPBack.styles.css
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets.build.json
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets.development.json
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets\msbuild.GPBack.Microsoft.AspNetCore.StaticWebAssets.props
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets\msbuild.GPBack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets\msbuild.build.GPBack.props
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GPBack.props
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GPBack.props
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets.pack.json
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.csproj.Up2Date
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.dll
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\refint\GPBack.dll
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.pdb
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\GPBack.genruntimeconfig.cache
+D:\faculty\GP\Back\GPBack\obj\Debug\net8.0\ref\GPBack.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\appsettings.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\GPBack.exe
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\GPBack.deps.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\GPBack.runtimeconfig.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\GPBack.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\GPBack.pdb
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Azure.Core.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Azure.Identity.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Humanizer.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Mono.TextTemplating.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.ClientModel.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.CodeDom.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Composition.Convention.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Composition.Hosting.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Composition.Runtime.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Composition.TypedParts.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Drawing.Common.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Formats.Asn1.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Memory.Data.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Runtime.Caching.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Security.Permissions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\System.Windows.Extensions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.csproj.AssemblyReference.cache
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.AssemblyInfoInputs.cache
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.AssemblyInfo.cs
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.csproj.CoreCompileInputs.cache
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.MvcApplicationPartsAssemblyInfo.cs
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.MvcApplicationPartsAssemblyInfo.cache
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.GPBack.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.GPBack.props
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GPBack.props
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GPBack.props
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\scopedcss\bundle\GPBack.styles.css
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.csproj.Up2Date
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\refint\GPBack.dll
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.pdb
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\GPBack.genruntimeconfig.cache
+Y:\Graduation Project\Graduation Project\Back-End\ASP.NET\obj\Debug\net8.0\ref\GPBack.dll
